@@ -1,0 +1,9 @@
+#ifdef errors
+#define errors
+
+int inputi();
+float inputf();
+double inputd();
+char inputc();
+
+#endif
